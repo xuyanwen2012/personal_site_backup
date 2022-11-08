@@ -1,0 +1,18 @@
+theme: jekyll-theme-minimal
+
+# Site Settings
+locale                   : "en-US"
+title                    : "Yanwen Xu"
+name                     : &name "Yanwen Xu"
+description              : &description "🎓 Ph.D. in Computer Science and Engineering @ UCSC. Heterogeneous Computing, Compilers Design, and Programming Languages. Former indie game developer.
+"
+
+logo                     : "https://avatars1.githubusercontent.com/u/17172671?s=460&v=4"
+
+
+author:
+   name             : "Yanwen Xu"
+   avatar           : "https://avatars1.githubusercontent.com/u/17172671?s=460&v=4"
+   email            : "yxu83@ucsc.edu"
+   github           : "xuyanwen2012"
+   youtube          : "xuyanwen2012@gmail.com"
